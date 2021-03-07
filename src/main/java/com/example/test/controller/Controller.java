@@ -9,6 +9,6 @@ public class Controller {
 
 	@GetMapping("/check")
 	public String check() {
-		return "Success";
+		return "Automated Success";
 	}
 }
